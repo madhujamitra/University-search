@@ -13,15 +13,15 @@ Ensure you have Docker installed on your machine. You can download Docker from [
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/madhujamitra/University-Search-App.git
-   cd university-search-app
+   git clone https://github.com/madhujamitra/University-search.git
+   
 
 2. **Build and Run the Docker Container**
    
    ```bash
    docker-compose up --build
 
-This command will build the Docker image and start the container. The application will be available at http://localhost:3000.
+This command will build the Docker images and start the containers for both the frontend and backend services. The frontend application will be available at http://localhost:3000, and the backend will be exposed on port 4000.
 
 3. **Stop the Docker Container running**
    
