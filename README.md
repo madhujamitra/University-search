@@ -35,9 +35,8 @@ To run the development server outside of Docker:
 
 1. Navigate to the Frontend Directory
 
-   ```bash
-   cd universities-app
-
+  ```bash
+  cd universities-app
 
 2. Install Dependencies
 
@@ -54,8 +53,8 @@ Open http://localhost:3000 with your browser to see the frontend application.
 
 1. Navigate to the Brontend Directory
 
-   ```bash
-   cd universities-backend
+  ```bash
+  cd universities-backend
 
 2. Install Dependencies
 
