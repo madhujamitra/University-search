@@ -17,7 +17,7 @@ Ensure you have Docker installed on your machine. You can download Docker from [
   
 
 2. **Build and Run the Docker Container**
-   
+
    ```bash
    docker-compose up --build
 
